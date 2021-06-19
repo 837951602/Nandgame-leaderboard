@@ -1,0 +1,3 @@
+    localStorage["NandGame:Levels:ISZERO"]="{\"nodes\":[{\"type\":\"OR\",\"x\":217,\"y\":372,\"id\":\"0\"},{\"type\":\"INV\",\"x\":205,\"y\":244,\"id\":\"1\"}],\"connections\":[{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"3\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"0\"}},{\"source\":{\"nodeId\":\"0\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"1\"}},{\"source\":{\"nodeId\":\"0\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"1\",\"connectorId\":\"0\"}},{\"source\":{\"nodeId\":\"1\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"output\",\"connectorId\":\"0\"}}]}"
+
+![2/4](ISZERO_CHEAT.png)
