@@ -1,0 +1,3 @@
+    localStorage["NandGame:Levels:RELAY_NAND"]="{\"nodes\":[{\"type\":\"RELAY-OFF\",\"x\":115,\"y\":375,\"id\":\"0\"},{\"type\":\"RELAY-ON\",\"x\":163,\"y\":229,\"id\":\"1\"}],\"connections\":[{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"0\"}},{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"1\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"1\"}},{\"source\":{\"nodeId\":\"0\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"1\",\"connectorId\":\"0\"}},{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"2\"},\"target\":{\"nodeId\":\"1\",\"connectorId\":\"1\"}},{\"source\":{\"nodeId\":\"1\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"output\",\"connectorId\":\"0\"}}]}"
+
+![-/2](RELAY_NAND_GATE.png)

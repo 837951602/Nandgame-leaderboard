@@ -1,0 +1,3 @@
+    localStorage["NandGame:Levels:INV"]="{\"nodes\":[{\"type\":\"NAND\",\"x\":76,\"y\":237,\"id\":\"0\"}],\"connections\":[{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"0\"}},{\"source\":{\"nodeId\":\"input\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"0\",\"connectorId\":\"1\"}},{\"source\":{\"nodeId\":\"0\",\"connectorId\":\"0\"},\"target\":{\"nodeId\":\"output\",\"connectorId\":\"0\"}}]}"
+
+![1/1](INV_GATE.png)
